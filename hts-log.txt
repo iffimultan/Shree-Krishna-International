@@ -1,0 +1,88 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 20 Apr 2025 15:29:45 at https://kmidigital.org +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%P0s2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://kmidigital.org -O1 "C:\My Web Sites\kmi" +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:30:46	Error: 	"Not Found" (404) at link https://kmidigital.org/MW Developers (from https://kmidigital.org/)
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/wp-content/themes/leverage/assets/fonts/icons/Icons-Line.svg?v=2.4.0 (from https://kmidigital.org/wp-content/themes/leverage/assets/css/vendor/icons.min.css?ver=2.1.9)
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/wp-content/themes/leverage/assets/images/favicon.ico (from https://kmidigital.org/wp-content/themes/leverage/assets/css/vendor/gallery.min.css?ver=2.1.9)
+15:30:48	Warning: 	Moved Permanently for https://kmidigital.org/?p=1050
+15:30:48	Warning: 	File has moved from https://kmidigital.org/?p=1050 to https://kmidigital.org/about-us/
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/about-us/MW Developers (from https://kmidigital.org/about-us/)
+15:30:48	Warning: 	Moved Permanently for https://kmidigital.org/?p=1063
+15:30:48	Warning: 	File has moved from https://kmidigital.org/?p=1063 to https://kmidigital.org/our-services/
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/our-services/MW Developers (from https://kmidigital.org/our-services/)
+15:30:48	Warning: 	Moved Permanently for https://kmidigital.org/?p=1129
+15:30:48	Warning: 	File has moved from https://kmidigital.org/?p=1129 to https://kmidigital.org/contactus/
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/contactus/MW Developers (from https://kmidigital.org/contactus/)
+15:30:48	Warning: 	Moved Permanently for https://kmidigital.org/?p=1068
+15:30:48	Warning: 	File has moved from https://kmidigital.org/?p=1068 to https://kmidigital.org/managing-artists-and-labels/
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/managing-artists-and-labels/MW Developers (from https://kmidigital.org/managing-artists-and-labels/)
+15:30:48	Warning: 	Moved Permanently for https://kmidigital.org/?p=2086
+15:30:48	Warning: 	File has moved from https://kmidigital.org/?p=2086 to https://kmidigital.org/music-distribution-and-monetization/
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/music-distribution-and-monetization/MW Developers (from https://kmidigital.org/music-distribution-and-monetization/)
+15:30:48	Warning: 	Moved Permanently for https://kmidigital.org/?p=2099
+15:30:48	Warning: 	File has moved from https://kmidigital.org/?p=2099 to https://kmidigital.org/dealing-with-royalties-and-copyrights/
+15:30:48	Error: 	"Not Found" (404) at link https://kmidigital.org/dealing-with-royalties-and-copyrights/MW Developers (from https://kmidigital.org/dealing-with-royalties-and-copyrights/)
+15:30:50	Warning: 	Moved Permanently for https://kmidigital.org/?p=2149
+15:30:50	Warning: 	File has moved from https://kmidigital.org/?p=2149 to https://kmidigital.org/revamping-your-brand-with-our-merchandising/
+15:30:50	Error: 	"Not Found" (404) at link https://kmidigital.org/revamping-your-brand-with-our-merchandising/MW Developers (from https://kmidigital.org/revamping-your-brand-with-our-merchandising/)
+15:30:50	Warning: 	Moved Permanently for https://kmidigital.org/?p=2128
+15:30:50	Warning: 	File has moved from https://kmidigital.org/?p=2128 to https://kmidigital.org/our-mobile-vas/
+15:30:50	Error: 	"Not Found" (404) at link https://kmidigital.org/our-mobile-vas/MW Developers (from https://kmidigital.org/our-mobile-vas/)
+15:30:50	Warning: 	Moved Permanently for https://kmidigital.org/?p=2520
+15:30:50	Warning: 	File has moved from https://kmidigital.org/?p=2520 to https://kmidigital.org/artist-verification/
+15:30:50	Error: 	"Not Found" (404) at link https://kmidigital.org/artist-verification/MW Developers (from https://kmidigital.org/artist-verification/)
+15:30:58	Error: 	"Not Found" (404) at link https://kmidigital.org/GET (from https://kmidigital.org/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.7)
+15:30:59	Warning: 	Moved Permanently for https://kmidigital.org/?p=1927
+15:30:59	Warning: 	File has moved from https://kmidigital.org/?p=1927 to https://kmidigital.org/2021/05/12/tips-for-having-a-good-relationship-at-work/
+15:31:47	Error: 	"Not Found" (404) at link https://kmidigital.org/2021/05/12/tips-for-having-a-good-relationship-at-work/MW Developers (from https://kmidigital.org/2021/05/12/tips-for-having-a-good-relationship-at-work/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/author/mwdevelopers/MW Developers (from https://kmidigital.org/author/mwdevelopers/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/app/MW Developers (from https://kmidigital.org/category/app/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/branding/MW Developers (from https://kmidigital.org/category/branding/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/business/MW Developers (from https://kmidigital.org/category/business/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/design/MW Developers (from https://kmidigital.org/category/design/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/mobile/MW Developers (from https://kmidigital.org/category/mobile/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/photography/MW Developers (from https://kmidigital.org/category/photography/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/uncategorized/MW Developers (from https://kmidigital.org/category/uncategorized/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/websites/MW Developers (from https://kmidigital.org/category/websites/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/category/wordpress/MW Developers (from https://kmidigital.org/category/wordpress/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/banner/MW Developers (from https://kmidigital.org/tag/banner/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/clean/MW Developers (from https://kmidigital.org/tag/clean/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/creative/MW Developers (from https://kmidigital.org/tag/creative/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/dark/MW Developers (from https://kmidigital.org/tag/dark/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/elementor/MW Developers (from https://kmidigital.org/tag/elementor/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/gallery/MW Developers (from https://kmidigital.org/tag/gallery/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/image/MW Developers (from https://kmidigital.org/tag/image/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/light/MW Developers (from https://kmidigital.org/tag/light/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/minimal/MW Developers (from https://kmidigital.org/tag/minimal/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/original/MW Developers (from https://kmidigital.org/tag/original/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/parallax/MW Developers (from https://kmidigital.org/tag/parallax/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/shop/MW Developers (from https://kmidigital.org/tag/shop/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/sidebar/MW Developers (from https://kmidigital.org/tag/sidebar/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/tag/video/MW Developers (from https://kmidigital.org/tag/video/)
+15:31:53	Warning: 	Moved Permanently for https://kmidigital.org/?p=1
+15:31:53	Warning: 	File has moved from https://kmidigital.org/?p=1 to https://kmidigital.org/2023/01/14/hello-world/
+15:31:53	Error: 	"Method Not Allowed" (405) at link https://kmidigital.org/xmlrpc.php (from https://kmidigital.org/2023/01/14/hello-world/)
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/2023/01/14/hello-world/MW Developers (from https://kmidigital.org/2023/01/14/hello-world/)
+15:31:53	Warning: 	Moved Permanently for https://kmidigital.org/?p=1926
+15:31:53	Warning: 	File has moved from https://kmidigital.org/?p=1926 to https://kmidigital.org/2021/05/12/data-scientists-are-a-booming-profession/
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/2021/05/12/data-scientists-are-a-booming-profession/MW Developers (from https://kmidigital.org/2021/05/12/data-scientists-are-a-booming-profession/)
+15:31:53	Warning: 	Moved Permanently for https://kmidigital.org/?p=1925
+15:31:53	Warning: 	File has moved from https://kmidigital.org/?p=1925 to https://kmidigital.org/2021/05/12/successful-creations-using-virtual-reality/
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/2021/05/12/successful-creations-using-virtual-reality/MW Developers (from https://kmidigital.org/2021/05/12/successful-creations-using-virtual-reality/)
+15:31:53	Warning: 	Moved Permanently for https://kmidigital.org/?p=1924
+15:31:53	Warning: 	File has moved from https://kmidigital.org/?p=1924 to https://kmidigital.org/2021/05/12/is-the-trend-these-days-working-from-home/
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/2021/05/12/is-the-trend-these-days-working-from-home/MW Developers (from https://kmidigital.org/2021/05/12/is-the-trend-these-days-working-from-home/)
+15:31:53	Warning: 	Moved Permanently for https://kmidigital.org/?p=1928
+15:31:53	Warning: 	File has moved from https://kmidigital.org/?p=1928 to https://kmidigital.org/2021/05/12/why-project-management-increases-performance/
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/2021/05/12/why-project-management-increases-performance/MW Developers (from https://kmidigital.org/2021/05/12/why-project-management-increases-performance/)
+15:31:53	Warning: 	Moved Permanently for https://kmidigital.org/?p=1921
+15:31:53	Warning: 	File has moved from https://kmidigital.org/?p=1921 to https://kmidigital.org/2021/05/12/how-digital-transformation-has-changed-the-world/
+15:31:53	Error: 	"Not Found" (404) at link https://kmidigital.org/2021/05/12/how-digital-transformation-has-changed-the-world/MW Developers (from https://kmidigital.org/2021/05/12/how-digital-transformation-has-changed-the-world/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 9 seconds : 372 links scanned, 310 files written (23562192 bytes overall), 309 files updated [12359648 bytes received at 95811 bytes/sec], 17153318 bytes transferred using HTTP compression in 294 files, ratio 24%, 23.3 requests per connection
+(45 errors, 32 warnings, 0 messages)
